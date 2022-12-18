@@ -2,3 +2,4 @@ rencana toko elektronik nfd
 
 - menjual barang secara online 
 - menjual alat musik
+- menjual radio
